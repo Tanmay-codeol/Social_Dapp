@@ -8,7 +8,7 @@ create account
 update name
 update bio
 update profile picture
-folloow
+follow
 unfollow
 post
 comment
